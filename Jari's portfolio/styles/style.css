@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    font-family: "Inconsolata";
+    width: auto;
+    height: auto;
+}
+
+/* Navbar */
+.navbar {
+    font-family: "Inconsolata";
+    background-color: #556B2F;
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    height: 20px;
+}
+/* About Me Section */
+.aboutme {
+    text-align: center;
+    font-size: 40px;
+
+}
+.picme {
+    border-radius: 50%;
+    border: 2px solid grey;
+    
+}
+.picelodie {
+    border-radius: 50%;
+    border: 2px solid grey;
+}
+.textaboutme {
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: 500px;
+    border: 3px solid grey;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 4px;
+    margin-bottom: 200px;
+}
+/* Carreer section */
+
+.carreer {
+    height: auto;
+    width: auto;
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.onderwerp {
+    height: auto;
+    width: auto;
+
+}
+
+.logo {
+    border-radius: 50%;
+    border: 2px solid gray;
+    background-color: white;
+    
+}
+
+.carreertext {
+    height: auto;
+    width: auto;
+    border: 3px solid grey;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 4px;
+    margin: 10px;
+}
+
+/* Socials */
+
+.socials {
+    height: auto;px;
+}
+.socialslogo {
+    height: 400px;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.socialstext {
+    height: auto;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid grey;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 4px;
+    
+}
